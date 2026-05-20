@@ -32,3 +32,6 @@ Show HTML Test Report:
 ```
 npx playwright show-report
 ```
+Outcome should look something like this in the terminal, when the tests have passed succesfully.
+<img width="835" height="176" alt="image" src="https://github.com/user-attachments/assets/77f0351c-04cb-4345-8c8c-76d0fef65f91" />
+
